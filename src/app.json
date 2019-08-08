@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/login",
+    "pages/guanli",
+    "pages/guanli_detail",
+    "pages/reply_pwd",
+    "pages/jianyi",
+    "pages/my"
+  ],
+  "usingComponents": {
+    "van-toast": "vant-weapp/dist/toast/index"
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#2E303F",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "light"
+  }
+}
